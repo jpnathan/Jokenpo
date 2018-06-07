@@ -18,6 +18,7 @@ Follow the steps to run the project:
 
 - [Clone repository or download it.](https://github.com/jpnathan/Jokenpo)
 - Go to the folder `cd jokenpo`
+- Run `npm install`
 - Run server `node index.js`
 - Execute with postman `http://localhost:3000/jokenpo?playerOne=papel&playerTwo=papel`
 - Change the values of playerOne and playerTwo to see the results
